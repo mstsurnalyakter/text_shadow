@@ -1,0 +1,150 @@
+      * {
+        padding: 0;
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .shadow {
+        width: 450px;
+        margin: 0 auto;
+        padding-top: 100px;
+        min-height: calc(100vh - 100px);
+        text-align: center;
+      }
+      h1{
+        font-size: 2.5rem;
+        text-shadow: 1px 1px purple, -1px -1px white, 2px 2px purple, -2px -2px white;
+        color: purple;
+        padding: 0;
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .shadow {
+        width: 450px;
+        margin: 0 auto;
+        padding-top: 180px;
+        min-height: calc(100vh - 180px);
+        text-align: center;
+      }
+      p {
+        padding: 16px;
+        font-size: 2rem;
+        margin: 10px;
+      }
+
+      .p1 {
+        border: 1px solid #c0c3c4;
+        text-shadow: 1px 1px 1px white;
+      }
+
+      .p2 {
+        background-color: #ecebeb;
+        text-shadow: 2px 1px white;
+      }
+
+      .p3 {
+        background-color: #57aafd;
+        color: white;
+        text-shadow: 1px 1px black;
+      }
+
+      .p4 {
+        background-color: #45c145;
+        color: white;
+        text-shadow: 1px 1px black;
+      }
+
+      .p5 {
+        background-color: crimson;
+        opacity: 0.6;
+        color: white;
+        text-shadow: 1px 2px black;
+      }
+
+      .p6 {
+        background-color: teal;
+        opacity: 0.7;
+        color: white;
+        text-shadow: 2px 2px teal;
+      }
+
+      .p7 {
+        background-color: #ffb915;
+        opacity: 0.8;
+        text-shadow: 1px 1px 3px black;
+      }
+
+      .p8 {
+        background-color: #808080;
+        opacity: 0.9;
+        color: white;
+        text-shadow: 2px 2px black;
+      }
+
+      .p9 {
+        background-color: #111;
+        color: white;
+        text-shadow: 3px 2px gray;
+      }
+      }
+      p {
+        padding: 16px;
+        font-size: 2rem;
+        margin: 10px;
+      }
+
+      .p1 {
+        border: 1px solid #c0c3c4;
+        text-shadow: 1px 1px 1px white;
+      }
+
+      .p2 {
+        background-color: #ecebeb;
+        text-shadow: 2px 1px white;
+      }
+
+      .p3 {
+        background-color: #57aafd;
+        color: white;
+        text-shadow: 1px 1px black;
+      }
+
+      .p4 {
+        background-color: #45c145;
+        color: white;
+        text-shadow: 1px 1px black;
+      }
+
+      .p5 {
+        background-color: crimson;
+        opacity: 0.6;
+        color: white;
+        text-shadow: 1px 2px black;
+      }
+
+      .p6 {
+        background-color: teal;
+        opacity: 0.7;
+        color: white;
+        text-shadow: 2px 2px teal;
+      }
+
+      .p7 {
+        background-color: #ffb915;
+        opacity: 0.8;
+        text-shadow: 1px 1px 3px black;
+      }
+
+      .p8 {
+        background-color: #808080;
+        opacity: 0.9;
+        color: white;
+        text-shadow: 2px 2px black;
+      }
+
+      .p9 {
+        background-color: #111;
+        color: white;
+        text-shadow: 3px 2px gray;
+      }
